@@ -1,0 +1,17 @@
+txtdata_path = "C:/1/振动试验台数据/断半齿/0.4负载转速1500/WithoutLossSamp0144.txt",
+144 - 154
+
+txtdata_path = "C:/1/振动试验台数据/断齿/0.4负载转速1500/WithoutLossSamp0099.txt",
+99 - 109
+
+txtdata_path = "C:/1/振动试验台数据/偏心齿轮/0.4负载转速1500/WithoutLossSamp0091.txt",
+091 - 101
+
+txtdata_path = "C:/1/振动试验台数据/正常/0.4负载转速1500/WithoutLossSamp0066.txt",
+066 - 076
+
+txtdata_path = "C:/1/振动试验台数据/齿轮裂纹/0.4负载转速1500/WithoutLossSamp0073.txt",
+73 - 83
+
+txtdata_path = "C:/1/振动试验台数据/齿面磨损/0.5负载转速1500/WithoutLossSamp0116.txt",
+116 - 127
