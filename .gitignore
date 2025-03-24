@@ -1,0 +1,24 @@
+# 忽略临时文件
+*.log
+*.tmp
+
+# 忽略 IDE 相关文件（VSCode、PyCharm、Eclipse 等）
+.vscode/
+.idea/
+*.iml
+
+# 忽略 Python 缓存文件
+__pycache__/
+*.pyc
+
+# 忽略 Node.js 依赖
+node_modules/
+
+# 忽略编译生成的文件
+*.o
+*.exe
+*.out
+build/
+
+# 忽略环境变量文件
+.env
